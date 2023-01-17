@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-7-modal-window/static/css/main.073c9b0a.css",
+    "main.js": "/homework-7-modal-window/static/js/main.3eaee607.js",
+    "index.html": "/homework-7-modal-window/index.html",
+    "main.073c9b0a.css.map": "/homework-7-modal-window/static/css/main.073c9b0a.css.map",
+    "main.3eaee607.js.map": "/homework-7-modal-window/static/js/main.3eaee607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3eaee607.js"
+  ]
+}
